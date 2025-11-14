@@ -1,0 +1,5 @@
+{
+  "name": "thirteen26",
+  "description": "An AI-powered daily scheduler that helps you structure your day for optimal productivity. Input your tasks, and Gemini will create a balanced schedule around your fixed routines, complete with progress tracking and efficiency tips.",
+  "requestFramePermissions": []
+}
